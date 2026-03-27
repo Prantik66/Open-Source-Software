@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Tanish | Course: Open Source Software
+# Author: Prantik | Course: Open Source Software
 
 # Set the package name to check
 PACKAGE="httpd"
