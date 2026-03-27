@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Tanish | Course: Open Source Software
+# Author: Prantik | Course: Open Source Software
 
 # List of directories to check
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
