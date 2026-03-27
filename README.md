@@ -1,11 +1,11 @@
 # Open Source Software : Shell Script Tasks
 
-**Author:** Tanish Kumar Kar - 24BCY10013
-**Course:** Open Source Software
+**Author:** Prantik Kesariya - 24BCE11016
+**Course:** Open Source Software Linux
 
 ---
 
-## Overview
+## Project Overview
 
 This project contains five Bash shell scripts written as part of the Open Source Audit assignment. Each script demonstrates core Linux shell scripting concepts and must be run on a real Linux system.
 
