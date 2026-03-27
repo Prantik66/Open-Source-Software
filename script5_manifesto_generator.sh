@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Tanish | Course: Open Source Software
+# Author: Prantik | Course: Open Source Software
 # Alias example: alias cls='clear' (aliases create shortcuts for commands)
 
 echo ""
