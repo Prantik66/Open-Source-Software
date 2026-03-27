@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Tanish | Course: Open Source Software
+# Author: Prantik | Course: Open Source Software
 # Usage: ./script4_log_analyzer.sh /var/log/syslog error
 
 # Get the log file and keyword from command line arguments
